@@ -16,7 +16,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/JacksonSantin/shopping?color=%238257E5">
   </a>
 
-  <a href="https://github.com/JacksonSantin/">
+  <a href="https://curriculum-vitae-jacksonsantin.vercel.app">
     <img alt="Feito por Jackson Dhanyel Santin" src="https://img.shields.io/badge/feito%20por-Jackson-%238257E5">
   </a>
 </p>
@@ -103,7 +103,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 
-Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jackson-dhanyel-santin/)
+Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://curriculum-vitae-jacksonsantin.vercel.app/contato)
 
 Consulte informações sobre a licença do projeto [MIT](https://gitlab.com/JackDhanyels/shopping/-/blob/master/LICENSE).
 
