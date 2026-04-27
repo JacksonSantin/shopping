@@ -1,0 +1,70 @@
+import { StyleSheet } from 'react-native';
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1
+  },
+
+  title: {
+    color: '#14213D',
+    fontSize: 24,
+    fontFamily: 'Archivo_700Bold',
+    marginBottom: 32,
+    paddingBottom: 24,
+    borderBottomWidth: 0.8,
+    borderBottomColor: '#D3E2E6'
+  },
+
+  inputModalSelector: {
+    backgroundColor: '#fff',
+    borderWidth: 1,
+    borderColor: '#14213D',
+    borderRadius: 6,
+    borderStyle: 'dashed',
+    height: 40,
+    paddingVertical: 0,
+    paddingHorizontal: 0,
+    marginBottom: 16,
+    textAlignVertical: 'top'
+  },
+
+  input: {
+    backgroundColor: '#fff',
+    borderWidth: 1,
+    borderColor: '#14213D',
+    borderRadius: 20,
+    height: 56,
+    paddingVertical: 18,
+    paddingHorizontal: 24,
+    marginBottom: 16,
+    textAlignVertical: 'top'
+  },
+
+  containerTextButton: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center'
+  },
+
+  errorMessage: {
+    color: '#f00',
+    textAlign: 'center',
+  },
+
+  nextButton: {
+    backgroundColor: '#FCA311',
+    borderRadius: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+    height: 56,
+    marginTop: 32
+  },
+
+  nextButtonText: {
+    fontFamily: 'Archivo_700Bold',
+    fontSize: 16,
+    color: '#fff'
+  },
+});
+
+export default styles;
